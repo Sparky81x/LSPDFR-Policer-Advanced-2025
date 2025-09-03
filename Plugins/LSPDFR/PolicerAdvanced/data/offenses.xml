@@ -1,0 +1,411 @@
+<?xml version="1.0" ?>
+<Offenses>
+	<!-- TRAFFIC -->
+	<Offense>
+		<Name>Driving Without a License</Name>
+		<Fine>300</Fine>
+		<Category>Traffic</Category>
+		<Region>US</Region>
+		<VerdictClass>T</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Running a Red Light</Name>
+		<Fine>200</Fine>
+		<Category>Traffic</Category>
+		<Region>US</Region>
+		<VerdictClass>T</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Driving Without Insurance</Name>
+		<Fine>500</Fine>
+		<Category>Traffic</Category>
+		<Region>US</Region>
+		<VerdictClass>T</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Excessive Speeding (Over 100mph)</Name>
+		<Fine>600</Fine>
+		<Category>Traffic</Category>
+		<Region>US</Region>
+		<VerdictClass>T</VerdictClass>
+	</Offense>
+
+	<!-- MISDEMEANOR C -->
+	<Offense>
+		<Name>Public Intoxication</Name>
+		<Fine>150</Fine>
+		<Category>Misdemeanor</Category>
+		<Region>US</Region>
+		<VerdictClass>C</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Littering / Illegal Dumping</Name>
+		<Fine>120</Fine>
+		<Category>Misdemeanor</Category>
+		<Region>US</Region>
+		<VerdictClass>C</VerdictClass>
+	</Offense>
+
+	<!-- MISDEMEANOR B -->
+	<Offense>
+		<Name>Disorderly Conduct</Name>
+		<Fine>250</Fine>
+		<Category>Misdemeanor</Category>
+		<Region>US</Region>
+		<VerdictClass>B</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Resisting Stop / Fleeing on Foot</Name>
+		<Fine>400</Fine>
+		<Category>Misdemeanor</Category>
+		<Region>US</Region>
+		<VerdictClass>B</VerdictClass>
+	</Offense>
+
+	<!-- FELONY A -->
+	<Offense>
+		<Name>Hit and Run (No Injury)</Name>
+		<Fine>750</Fine>
+		<Category>Felony</Category>
+		<Region>US</Region>
+		<VerdictClass>A</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Possession of Stolen Vehicle</Name>
+		<Fine>900</Fine>
+		<Category>Felony</Category>
+		<Region>US</Region>
+		<VerdictClass>A</VerdictClass>
+	</Offense>
+
+	<!-- FELONY E -->
+	<Offense>
+		<Name>Assaulting a Police Officer</Name>
+		<Fine>1500</Fine>
+		<Category>Felony</Category>
+		<Region>US</Region>
+		<VerdictClass>E</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Armed Robbery (w/ Weapon Displayed)</Name>
+		<Fine>2000</Fine>
+		<Category>Felony</Category>
+		<Region>US</Region>
+		<VerdictClass>E</VerdictClass>
+	</Offense>
+	<!-- UK Traffic Offenses -->
+	<Offense>
+		<Name>Using Mobile Phone While Driving</Name>
+		<Fine>200</Fine>
+		<Category>Traffic</Category>
+		<Region>UK</Region>
+		<VerdictClass>TRAF</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Speeding in Built-up Area</Name>
+		<Fine>100</Fine>
+		<Category>Traffic</Category>
+		<Region>UK</Region>
+		<VerdictClass>TRAF</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>No MOT</Name>
+		<Fine>300</Fine>
+		<Category>Traffic</Category>
+		<Region>UK</Region>
+		<VerdictClass>TRAF</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>MOT Expired</Name>
+		<Fine>250</Fine>
+		<Category>Traffic</Category>
+		<Region>UK</Region>
+		<VerdictClass>TRAF</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>No Tax</Name>
+		<Fine>350</Fine>
+		<Category>Traffic</Category>
+		<Region>UK</Region>
+		<VerdictClass>TRAF</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Tax Expired</Name>
+		<Fine>300</Fine>
+		<Category>Traffic</Category>
+		<Region>UK</Region>
+		<VerdictClass>TRAF</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>No Insurance</Name>
+		<Fine>500</Fine>
+		<Category>Traffic</Category>
+		<Region>UK</Region>
+		<VerdictClass>TRAF</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Insurance Expired</Name>
+		<Fine>400</Fine>
+		<Category>Traffic</Category>
+		<Region>UK</Region>
+		<VerdictClass>TRAF</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>No Registration</Name>
+		<Fine>250</Fine>
+		<Category>Traffic</Category>
+		<Region>UK</Region>
+		<VerdictClass>TRAF</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Registration Expired</Name>
+		<Fine>200</Fine>
+		<Category>Traffic</Category>
+		<Region>UK</Region>
+		<VerdictClass>TRAF</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>No Driving License</Name>
+		<Fine>500</Fine>
+		<Category>Traffic</Category>
+		<Region>UK</Region>
+		<VerdictClass>TRAF</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Driving Without a Valid License</Name>
+		<Fine>550</Fine>
+		<Category>Traffic</Category>
+		<Region>UK</Region>
+		<VerdictClass>TRAF</VerdictClass>
+	</Offense>
+
+	<!-- UK Summary Offenses -->
+	<Offense>
+		<Name>Drunk and Disorderly</Name>
+		<Fine>300</Fine>
+		<Category>Misdemeanor</Category>
+		<Region>UK</Region>
+		<VerdictClass>SUM</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Harassment</Name>
+		<Fine>400</Fine>
+		<Category>Misdemeanor</Category>
+		<Region>UK</Region>
+		<VerdictClass>SUM</VerdictClass>
+	</Offense>
+
+	<!-- UK Either-Way Offenses -->
+	<Offense>
+		<Name>Possession of a Bladed Article</Name>
+		<Fine>900</Fine>
+		<Category>Misdemeanor</Category>
+		<Region>UK</Region>
+		<VerdictClass>EW</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Possession of Controlled Substances</Name>
+		<Fine>800</Fine>
+		<Category>Misdemeanor</Category>
+		<Region>UK</Region>
+		<VerdictClass>EW</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Assault Occasioning Actual Bodily Harm</Name>
+		<Fine>1200</Fine>
+		<Category>Misdemeanor</Category>
+		<Region>UK</Region>
+		<VerdictClass>EW</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Dangerous Driving</Name>
+		<Fine>1100</Fine>
+		<Category>Misdemeanor</Category>
+		<Region>UK</Region>
+		<VerdictClass>EW</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Drink Driving</Name>
+		<Fine>1000</Fine>
+		<Category>Misdemeanor</Category>
+		<Region>UK</Region>
+		<VerdictClass>EW</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Drug Driving</Name>
+		<Fine>1050</Fine>
+		<Category>Misdemeanor</Category>
+		<Region>UK</Region>
+		<VerdictClass>EW</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Handling Stolen Goods</Name>
+		<Fine>950</Fine>
+		<Category>Misdemeanor</Category>
+		<Region>UK</Region>
+		<VerdictClass>EW</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Theft from Vehicle</Name>
+		<Fine>800</Fine>
+		<Category>Misdemeanor</Category>
+		<Region>UK</Region>
+		<VerdictClass>EW</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Criminal Damage Over £5,000</Name>
+		<Fine>1250</Fine>
+		<Category>Misdemeanor</Category>
+		<Region>UK</Region>
+		<VerdictClass>EW</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Threats to Kill</Name>
+		<Fine>1400</Fine>
+		<Category>Misdemeanor</Category>
+		<Region>UK</Region>
+		<VerdictClass>EW</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Perverting the Course of Justice</Name>
+		<Fine>1500</Fine>
+		<Category>Misdemeanor</Category>
+		<Region>UK</Region>
+		<VerdictClass>EW</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Harassment / Stalking (Repeated Offense)</Name>
+		<Fine>950</Fine>
+		<Category>Misdemeanor</Category>
+		<Region>UK</Region>
+		<VerdictClass>EW</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Resisting Arrest</Name>
+		<Fine>750</Fine>
+		<Category>Misdemeanor</Category>
+		<Region>UK</Region>
+		<VerdictClass>EW</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Public Order Offense (Level 3)</Name>
+		<Fine>880</Fine>
+		<Category>Misdemeanor</Category>
+		<Region>UK</Region>
+		<VerdictClass>EW</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Going Equipped for Theft/Burglary</Name>
+		<Fine>1000</Fine>
+		<Category>Misdemeanor</Category>
+		<Region>UK</Region>
+		<VerdictClass>EW</VerdictClass>
+	</Offense>
+
+	<!-- UK Indictable Offenses -->
+	<Offense>
+		<Name>Murder</Name>
+		<Fine>3000</Fine>
+		<Category>Felony</Category>
+		<Region>UK</Region>
+		<VerdictClass>IND</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Attempted Murder</Name>
+		<Fine>2800</Fine>
+		<Category>Felony</Category>
+		<Region>UK</Region>
+		<VerdictClass>IND</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Manslaughter</Name>
+		<Fine>2700</Fine>
+		<Category>Felony</Category>
+		<Region>UK</Region>
+		<VerdictClass>IND</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>GBH with Intent</Name>
+		<Fine>2500</Fine>
+		<Category>Felony</Category>
+		<Region>UK</Region>
+		<VerdictClass>IND</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Arson with Intent to Endanger Life</Name>
+		<Fine>2600</Fine>
+		<Category>Felony</Category>
+		<Region>UK</Region>
+		<VerdictClass>IND</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Armed Robbery</Name>
+		<Fine>2500</Fine>
+		<Category>Felony</Category>
+		<Region>UK</Region>
+		<VerdictClass>IND</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Kidnapping</Name>
+		<Fine>2400</Fine>
+		<Category>Felony</Category>
+		<Region>UK</Region>
+		<VerdictClass>IND</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Possession of Firearm with Intent</Name>
+		<Fine>2200</Fine>
+		<Category>Felony</Category>
+		<Region>UK</Region>
+		<VerdictClass>IND</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Aggravated Burglary</Name>
+		<Fine>2300</Fine>
+		<Category>Felony</Category>
+		<Region>UK</Region>
+		<VerdictClass>IND</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Sexual Assault</Name>
+		<Fine>2500</Fine>
+		<Category>Felony</Category>
+		<Region>UK</Region>
+		<VerdictClass>IND</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Drug Trafficking (Class A)</Name>
+		<Fine>2200</Fine>
+		<Category>Felony</Category>
+		<Region>UK</Region>
+		<VerdictClass>IND</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Possession of Explosives</Name>
+		<Fine>2700</Fine>
+		<Category>Felony</Category>
+		<Region>UK</Region>
+		<VerdictClass>IND</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Money Laundering</Name>
+		<Fine>2000</Fine>
+		<Category>Felony</Category>
+		<Region>UK</Region>
+		<VerdictClass>IND</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Terrorism Related Offense</Name>
+		<Fine>3000</Fine>
+		<Category>Felony</Category>
+		<Region>UK</Region>
+		<VerdictClass>IND</VerdictClass>
+	</Offense>
+	<Offense>
+		<Name>Perverting the Course of Justice (Severe)</Name>
+		<Fine>2100</Fine>
+		<Category>Felony</Category>
+		<Region>UK</Region>
+		<VerdictClass>IND</VerdictClass>
+	</Offense>
+</Offenses>
